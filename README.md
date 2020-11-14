@@ -10,3 +10,6 @@ For a convex function, the vanilla-flavored Gradient Descent takes forever to ge
 the traditional Gradient Descent although started slow it does reach optimal value even before MBGD and NAGD.
 This is simply because MBGD and NAGD make greedy decisions to converge to Minima.
 I have also made the contour plots for both the functions and projected the path from the 3D surface onto a 2D contour plot.
+
+
+![vis](https://user-images.githubusercontent.com/71862018/99155190-b2f67680-2683-11eb-8925-ae2e91c6cba2.gif)
