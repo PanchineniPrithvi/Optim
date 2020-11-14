@@ -1,5 +1,6 @@
 # Optim
 Visualization project for Gradient Descent, Momentum based Gradient Descent and Nesterov accelerated Gradient Descent.
+![vis](https://user-images.githubusercontent.com/71862018/99155190-b2f67680-2683-11eb-8925-ae2e91c6cba2.gif)
 From a nice-to-have skill to a must-have skill, Data Visualization has become an important part of business success.
 Apart from adding value to the business and decision-making, Visualization can help with an intuitive understanding of many mathematical proofs like  gradients,
 convergence to an optimal value, and many more. This video helps to visualize three basic and important Optimization Algorithms - 
@@ -10,6 +11,3 @@ For a convex function, the vanilla-flavored Gradient Descent takes forever to ge
 the traditional Gradient Descent although started slow it does reach optimal value even before MBGD and NAGD.
 This is simply because MBGD and NAGD make greedy decisions to converge to Minima.
 I have also made the contour plots for both the functions and projected the path from the 3D surface onto a 2D contour plot.
-
-
-![vis](https://user-images.githubusercontent.com/71862018/99155190-b2f67680-2683-11eb-8925-ae2e91c6cba2.gif)
