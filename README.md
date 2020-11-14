@@ -1,5 +1,5 @@
 # Optim
-Visualization project for Gradient Descent, Momentum based Gradient Descent and Nesterov accelerated Gradient Descent 
+Visualization project for Gradient Descent, Momentum based Gradient Descent and Nesterov accelerated Gradient Descent.
 From a nice-to-have skill to a must-have skill, Data Visualization has become an important part of business success.
 Apart from adding value to the business and decision-making, Visualization can help with an intuitive understanding of many mathematical proofs like  gradients,
 convergence to an optimal value, and many more. This video helps to visualize three basic and important Optimization Algorithms - 
